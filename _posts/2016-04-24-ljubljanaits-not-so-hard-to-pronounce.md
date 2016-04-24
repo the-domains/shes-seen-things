@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Ljubljana...It's not so hard to pronounce!"
-datePublished: '2016-04-24T21:45:23.166Z'
-dateModified: '2016-04-24T21:44:31.601Z'
+datePublished: '2016-04-24T21:53:53.584Z'
+dateModified: '2016-04-24T21:45:27.551Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-ljubljanaits-not-so-hard-to-pronounce.md
