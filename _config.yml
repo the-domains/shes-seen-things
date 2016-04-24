@@ -1,0 +1,28 @@
+name: Shes seen things
+favicon: null
+layout_spectrum: 0.3832832423504442
+typography_spectrum: 0.45848175417631865
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5149010496679693
+  lightness: 0.6393263479694724
+  saturation: 0.9504344929009676
+  rhythmicContrast: 0.3241099582519382
+purpose: []
